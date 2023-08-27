@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="6b7d6841-b349-4436-a4f7-e88e3729839a" name="BigQuery Mapping">
+      <data-sources db="b1375469-2276-48d6-9627-e2ed071358c1" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>

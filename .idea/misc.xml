@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="enabledOnSave" value="true" />
+    <option name="sdkUUID" value="064a31df-a4d3-4189-a77a-54ab590dbd09" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="C:\ProgramData\Anaconda3" project-jdk-type="Python SDK" />
   <component name="PyCharmDSProjectLayout">
     <option name="id" value="JupyterRightHiddenStructureLayout" />
